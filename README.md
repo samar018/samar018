@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=samar018&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=samar018&show_icons=true&theme=radical)
 # Hi there, I'm Samar Das 👋 
 ### Machine Learning Engineer & AI Researcher
 
