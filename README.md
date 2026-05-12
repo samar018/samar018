@@ -1,8 +1,10 @@
-!(https://github-readme-stats.vercel.app/api?username=samar018&show_icons=true&theme=radical)
 # Hi there, I'm Samar Das 👋 
 ### Machine Learning Engineer & AI Researcher
 
 I specialize in building intelligent systems using **LLMs**, **RAG**, and **Computer Vision**. My work bridges the gap between academic research and scalable AI applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-das-35301510b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samardas.cca@gmail.com)
 
 ---
 
@@ -24,6 +26,7 @@ I specialize in building intelligent systems using **LLMs**, **RAG**, and **Comp
 
 ### 📊 GitHub Stats
 ![Samar's Stats](https://github-readme-stats.vercel.app/api?username=samar018&show_icons=true&theme=radical&rank_icon=github&show=reviews,discussions,prs,merged_prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samar018&layout=compact&theme=radical)
 
 ---
@@ -37,7 +40,7 @@ I specialize in building intelligent systems using **LLMs**, **RAG**, and **Comp
 
 ### 📫 Let's Connect
 - 📧 **Email:** [samardas.cca@gmail.com](mailto:samardas.cca@gmail.com)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/samar-das-35301510b/
+- 💼 **LinkedIn:** [samar-das-35301510b](https://www.linkedin.com/in/samar-das-35301510b/)
 - 📝 **Portfolio:** [https://samar018.github.io](https://samar018.github.io)
 
 ⚡ **Fun Fact:** When I'm not coding, I'm likely analyzing planetary strengths in Vedic Astrology or writing poetry.
